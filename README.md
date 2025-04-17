@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Esteban 👋</h1>
 <p align="center">
     <strong>Full-Stack Laravel & Vue.js Engineer | Open Source Contributor | Clean Code Advocate</strong><br>
-    🛠️ Building backend systems & modern web apps — from database to DOM <br>
+    🛠️ Building backend systems & modern web apps<br>
     ⚡️ Senior Software Engineer | Miami, FL
 </p>
 
