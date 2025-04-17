@@ -61,8 +61,8 @@ I’m passionate about **full test coverage** in Laravel, from edge-case validat
 
 ### 🧠 Currently Exploring
 
-- ⚡️ Laravel performance optimization (queues, caching strategies)
-- 🧩 Modular app architecture & service boundaries
+- ⚡️ Laravel performance optimization (queues, caching strategies)<br>
+- 🧩 Modular app architecture & service boundaries<br>
 - ✨ Laravel high-performance workflows
 
 ---
