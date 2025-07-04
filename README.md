@@ -47,7 +47,7 @@ I believe in testable, maintainable code. I regularly:
 ---
 
 ### 📚 Featured Work
-- 🚀 Currently working at [Rows](https://rows.com) focused on performance & API architecture
+- 🚀 Currently working at [Rows](https://www.rowsone.com) focused on performance & API architecture
 - 🔗 [ProcessMaker BPM Core](https://github.com/ProcessMaker/processmaker) — Business process automation engine  
 - 📦 [LaravelForum](https://github.com/estebangallego/LaravelForum) — Modular Laravel app structure for community discussion and pet project
 
