@@ -2,14 +2,14 @@
 <p align="center">
     <strong>Full-Stack Laravel & Vue.js Engineer | Open Source Contributor | Clean Code Advocate</strong><br>
     🛠️ Building backend systems & modern web apps<br>
-    ⚡️ Senior Software Engineer | Miami, FL
+    ⚡️ Software Engineer | Miami, FL
 </p>
 
 ---
 
 ### 🧱 About Me
 
-I'm a Senior Software Engineer passionate about crafting solid backend architectures in **Laravel** and building dynamic, modern interfaces with **Vue.js**.  
+I'm a Software Engineer passionate about crafting solid backend architectures in **Laravel** and building dynamic, modern interfaces with **Vue.js**.  
 I specialize in scalable APIs, clean service layers, full test coverage, and reactive frontends — turning complex business requirements into seamless digital experiences.
 
 ---
